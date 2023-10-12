@@ -30,8 +30,8 @@
 <tbody>
  <tr>
 <td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<span><b><center>Java</center></b></span> 
+<img height=60px src="https://icons8.com/icon/13679/java"> 
 </td>
 
 <td align="center" width="20%">
