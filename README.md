@@ -146,5 +146,15 @@
 
 </tbody>
 </table>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Harman8815&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Harman8815&hide_langs_below=.25&theme=radical">
+</p>
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/harman-deep-singh-5a3b3823b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harman%20Deep%20Singh-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
  
