@@ -1,21 +1,32 @@
 # My-Projects
-<h2> Hey there! I'm Aditya.</h2>
+
+<h2 align="center" font-style="italic"> Hey there! I'm Harman.</h2>
+
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-
+- 🎓 &nbsp; Studying Computer Science and Mathematics at RGPV.
+- 💼 &nbsp; Open to work.
+- 🌱 &nbsp; Learning more about Machine learning, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Software engineering.
 - 
+#### 🌱 Things I am currently working on: 
+- Finish my Computer Engineering Master Degree  
+- Taking online courses about Data Science and Machine Learning 
+- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
+  
 ## Tech Stack :computer:
-
-
-
 <br>
 <table>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <tbody>
  <tr>
 <td align="center" width="20%">
@@ -90,4 +101,4 @@
 </tbody>
 </table>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ 
