@@ -24,10 +24,9 @@
 - Helping the society however posiible
   
 ## Tech Stack :computer:
-<br>
-<table width="300" height="300" >
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<tbody >
+<table >
+  <img align="right" width="400" height="240" style="margin-top: 20;"  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<tbody width="300" height="300">
  <tr>
 
 <!---**********************************************************************************************************************************-->
@@ -49,27 +48,20 @@
 </tr>
 <!---**********************************************************************************************************************************-->
 <tr>
-  <td align="center" width="20%">
+  <td align="center" width="15%">
     <span><b><center>HTML</center></b></span> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   </td>
   
-  <td align="center" width="20%">
+  <td align="center" width="5%">
     <span><b><center>CSS-3</center></b></span> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   </td>
-  <td align="center" width="20%">
+  <td align="center" width="15%">
     <span><b><center>JS</center></b></span> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   </td>
-  <td align="center" width="20%">
-    <span><b><center>Bootstrap</center></b></span> 
-    <img width="48" height="48" src="" alt="javascript--v1"/>
-  </td>
-  <td align="center" width="20%">
-    <span><b><center>WordPress</center></b></span> 
-    <img width="48" height="48" src="" alt="javascript--v1"/>
-  </td>
+  
 </tr>
 <!---**********************************************************************************************************************************-->
 <tr>
@@ -77,6 +69,14 @@
     <span><b><center>My SQL</center></b></span> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
   </td>
+  <td align="center" width="15%">
+    <span><b><center>Bootstrap</center></b></span> 
+    <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
+  </td>
+  <td align="center" width="15%">
+    <span><b><center>WordPress</center></b></span> 
+    <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/wordpress.png" alt="wordpress"/>
+  </td>  
 </tr>
 <!---**********************************************************************************************************************************-->
 <tr>
@@ -88,6 +88,10 @@
   <td align="center" width="20%">
     <span><b><center>Git-Hub</center></b></span> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/>
+  </td>
+  <td align="center" width="20%">
+    <span><b><center>Anaconda</center></b></span> 
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
   </td>
 </tr>
 
@@ -107,10 +111,7 @@
     <span><b><center>Apache NetBeans </center></b></span> 
     <img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
   </td>
-  <td align="center" width="20%">
-    <span><b><center>Anaconda</center></b></span> 
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
-  </td>
+  
 </tr>
 <!---**********************************************************************************************************************************-->
 <tr>
@@ -139,9 +140,7 @@
 <span><b><center>Stack Overflow</center></b></span> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
 </td>
- <td></td>
-            <td></td>
-            <td></td>
+ 
 
 </tr>
 
