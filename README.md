@@ -25,9 +25,9 @@
   
 ## Tech Stack :computer:
 <br>
-<table>
+<table width="300" height="300" >
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-<tbody>
+<tbody >
  <tr>
 
 <!---**********************************************************************************************************************************-->
@@ -131,7 +131,7 @@
 </tr>
 <!---**********************************************************************************************************************************-->
 <tr>
-<td align="center" width="20%">
+<td  align="center" width="20%">
 <span><b><center>Chat-GPT</center></b></span> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/chatgpt.png" alt="chatgpt"/>
 </td>+
@@ -139,7 +139,9 @@
 <span><b><center>Stack Overflow</center></b></span> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
 </td>
-
+ <td></td>
+            <td></td>
+            <td></td>
 
 </tr>
 
