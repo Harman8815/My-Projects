@@ -20,9 +20,12 @@ This GitHub repository contains the source code for a Advanced GUI Calculator. T
 - **Editor:** Tested on Eclipse 2023, Apache Netbeans IDE v17, VSCODE 2022
   
 ## 📷 Screenshots
-
-![ScreenShot_20240119151329](https://github.com/Harman8815/My-Projects/assets/115714095/7a8fbab9-1ad0-488f-ac6c-038456fceafe)
-![ScreenShot_20240119151419](https://github.com/Harman8815/My-Projects/assets/115714095/5ddffcd7-09a2-4806-b0b8-102cbb4f71c6)
+<table>
+  <tr>
+    <td><img src="https://github.com/Harman8815/My-Projects/assets/115714095/7a8fbab9-1ad0-488f-ac6c-038456fceafe" alt="Image 1"></td>
+    <td><img src="https://github.com/Harman8815/My-Projects/assets/115714095/5ddffcd7-09a2-4806-b0b8-102cbb4f71c6" alt="Image 2"></td>
+  </tr>
+</table>
 
 ## 🎥 Video
 
