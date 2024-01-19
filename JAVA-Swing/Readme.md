@@ -4,7 +4,6 @@
 
 This directory, "JAVA Swing," contains projects related to Java Swing graphical user interface development. Each project within this directory focuses on leveraging Java's Swing library to create interactive and visually appealing user interfaces.
 
-- **Description:** Briefly describe the purpose and features of the project.
 - **Owner:** [Harman Deep Singh ]
 - **GitHub:** [Harman88157](https://github.com/Harman8815)
 - **Technologies Used:**
