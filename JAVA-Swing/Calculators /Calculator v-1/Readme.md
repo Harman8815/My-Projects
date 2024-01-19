@@ -20,8 +20,12 @@ This GitHub repository contains the source code for a Basic GUI Calculator. The 
 - **Editor:** Tested on Eclipse 2023, Apache Netbeans IDE v17, VSCODE 2022
   
 ## 📷 Screenshots
-![ScreenShot_20240119150303](https://github.com/Harman8815/My-Projects/assets/115714095/e9ef6de5-5286-4bae-ba5f-afbee1393eb8)
-![ScreenShot_20240119150255](https://github.com/Harman8815/My-Projects/assets/115714095/1d6b8038-2a6f-4eca-b293-481590346386)
+<table>
+  <tr>
+    <td><img src="https://github.com/Harman8815/My-Projects/assets/115714095/1d6b8038-2a6f-4eca-b293-481590346386" alt="Image 2"></td>
+    <td><img src="https://github.com/Harman8815/My-Projects/assets/115714095/e9ef6de5-5286-4bae-ba5f-afbee1393eb8" alt="Image 1"></td>
+  </tr>
+</table>
 
 ## 🎥 Video
 
