@@ -21,12 +21,6 @@ https://github.com/Harman8815/My-Projects/assets/115714095/3160f9a2-1fb8-4cd3-92
 - **Language:** JAVA 
 - **Other Technologies:** JAVA Swing
 
-## ⚙️ Setup Instructions
-
-**Prerequisites:**
-   - You must have Python installed on your system.
-   - Simply run the `number_guessing_game.py` file. ⚙️
-   - Follow the on-screen instructions to play the game.
 
 ## 🛠️ How to Play
 
