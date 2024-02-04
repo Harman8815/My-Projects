@@ -19,7 +19,7 @@ https://github.com/Harman8815/My-Projects/assets/115714095/3160f9a2-1fb8-4cd3-92
 ## 🚀 Technologies Used
 
 - **Language:** JAVA 
-- **Other Technologies:** Command Line Interface (CLI) ⌨️
+- **Other Technologies:** JAVA Swing
 
 ## ⚙️ Setup Instructions
 
