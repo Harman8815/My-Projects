@@ -23,9 +23,9 @@
 - Exercising 6 days a week
 - Helping the society however posiible
   
+  <img align="right" width="400" height="240" style="margin-top: 20;"  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ## Tech Stack :computer:
 <table >
-  <img align="right" width="400" height="240" style="margin-top: 20;"  src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 <tbody width="300" height="300">
  <tr>
 
@@ -140,8 +140,11 @@
 <span><b><center>Stack Overflow</center></b></span> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
 </td>
+  <td align="center" width="20%">
+<span><b><center>Stack Overflow</center></b></span> 
+<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+</td>
  
-
 </tr>
 
 </tbody>
