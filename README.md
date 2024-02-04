@@ -141,7 +141,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>
 </td>
   <td align="center" width="20%">
-<span><b><center>Stack Overflow</center></b></span> 
+<span><b><center>My SQL</center></b></span> 
 <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 </td>
  
